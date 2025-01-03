@@ -1,5 +1,4 @@
 
-
 import tkinter as tk
 from tkinter import PhotoImage
 from timer import PomodoroTimer
