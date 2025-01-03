@@ -1,5 +1,5 @@
 import unittest
-from pomodoro_timer.timer import PomodoroTimer
+from timer import PomodoroTimer
 
 
 class TestPomodoroTimer(unittest.TestCase):
