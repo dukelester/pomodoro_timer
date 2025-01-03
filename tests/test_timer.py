@@ -1,6 +1,6 @@
 import unittest
-from timer import PomodoroTimer
 
+from pomodoro_timer.timer import PomodoroTimer
 
 class TestPomodoroTimer(unittest.TestCase):
     def setUp(self):
