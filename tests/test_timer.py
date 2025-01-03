@@ -2,6 +2,7 @@ import unittest
 
 from pomodoro_timer.timer import PomodoroTimer
 
+
 class TestPomodoroTimer(unittest.TestCase):
     def setUp(self):
         self.timer = PomodoroTimer(work_min=1, short_break_min=5, long_break_min=20)
