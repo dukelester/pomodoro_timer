@@ -1,8 +1,8 @@
 
 import tkinter as tk
 from tkinter import PhotoImage
-from .timer import PomodoroTimer
-from .constants import GREEN, YELLOW, FONT_NAME
+from timer import PomodoroTimer
+from constants import GREEN, YELLOW, FONT_NAME
 import os
 
 # Timer instance
